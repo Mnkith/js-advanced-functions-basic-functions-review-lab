@@ -1,5 +1,5 @@
 # JavaScript Advanced Functions: Basic Functions Review
-
+ 
 ## Learning Goals
 
 - Define a function using a function declaration

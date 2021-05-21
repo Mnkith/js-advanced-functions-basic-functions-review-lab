@@ -1,7 +1,7 @@
 describe("index.js", () => {
   describe("defines saturdayFun function declaration as specified", function() {
     it("function exists", function() {
-      expect(saturdayFun).to.exist
+      expect(saturdayFun).to.exist 
     })
 
     it("uses the default activity 'roller-skate' when no arguments are passed", function() {
